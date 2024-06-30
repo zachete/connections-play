@@ -1,4 +1,4 @@
-# Connections Plaing
+# Connections Playing
 
 Just playing with socket and psutil. Util print some processes and their network connections.
 
